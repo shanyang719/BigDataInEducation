@@ -24,7 +24,9 @@ Using VosViewer, we generated network graphs for five time periods. These graphs
 
 [Click here to view the full poster (PDF)](./poster.pdf)
 
-Alternatively, if your platform supports embedded PDFs:
+## Paper
 
-```html
-<embed src="poster.pdf" type="application/pdf" width="100%" height="600px" />
+[Click here to view the full paper (PDF)](./BigDataEducation.pdf)
+
+
+
